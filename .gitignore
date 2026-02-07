@@ -1,0 +1,36 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+
+## **.gitignore (Essential)**
+
+```gitignore
+# Data & ChromaDB
+data/
+chroma_db*/
+*.db
+*.sqlite3
+
+# Large files
+*.pdf
+*.zip
+*.txt
+*.tar.gz
+
+# Environment
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
