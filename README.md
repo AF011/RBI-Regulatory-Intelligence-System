@@ -1,4 +1,4 @@
-# RBI Regulatory Intelligence System README
+# RBI Regulatory Intelligence System
 
 ---
 title: "RBI Regulatory Intelligence System"
